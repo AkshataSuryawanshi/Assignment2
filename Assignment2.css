@@ -1,0 +1,30 @@
+.x
+	{
+	background-color: pink;
+	width: 250px;
+	}
+.one{
+	margin-bottom: 2px;
+	background-color: yellow;
+	width: 250px;
+	}
+
+.two{
+	background-color: gray;
+	width: 250px;
+ 	}
+
+.y{
+	border-width: 10px;
+	border-style: 10px;
+	border-color: blue;
+	}
+
+.ten{
+	background-color: pink;
+	width: 300px;
+	}
+.z{
+	background-color: blue;
+
+	}	
